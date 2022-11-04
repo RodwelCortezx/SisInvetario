@@ -1,0 +1,13 @@
+10por ciento procesado.
+20por ciento procesado.
+30por ciento procesado.
+41por ciento procesado.
+50por ciento procesado.
+60por ciento procesado.
+70por ciento procesado.
+81por ciento procesado.
+90por ciento procesado.
+100por ciento procesado.
+Se han procesado 592 p ginas para la base de datos 'bdSistemV', archivo 'bdSistemV' en el archivo 1.
+Se han procesado 1 p ginas para la base de datos 'bdSistemV', archivo 'bdSistemV_log' en el archivo 1.
+BACKUP DATABASE proces¢ correctamente 593 p ginas en 0.088 segundos (52.573 MB/s).
